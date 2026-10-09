@@ -1,6 +1,6 @@
 # Rentun
 
-Early-stage local browser prototype. No customers, funding, founder identity, or Claude integration are claimed. Deployment and application submission require owner authorization.
+Early-stage project combining a local browser prototype for task workflows with an AI literacy initiative for schools and kids. No paying customers, funding, founder identity, or active Claude integration are claimed. Deployment and application submission require owner authorization.
 
 Preview: `python -m http.server 4173 --bind 127.0.0.1`, then open http://127.0.0.1:4173 . Production requires HTTPS. Deploy only index.html, styles.css, app.js.
 
